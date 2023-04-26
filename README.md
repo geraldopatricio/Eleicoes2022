@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="./assets/images/logo.jpg" width="300" alt="Python" /></a>
 </p>
 
