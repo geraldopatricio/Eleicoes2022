@@ -15,6 +15,11 @@ Mostrar automaticamente em tempo real a votação das eleições 2022.
 Apenas o Python instalado
 ```
 
+## Resultado
+<p align="center">
+  <img src="./assets/images/eleicoes.jpg" width="600" alt="Eleicoes" /></a>
+</p>
+
 ## suporte
 ```bash
 WhatsApp: (85) 9 9150-8104
