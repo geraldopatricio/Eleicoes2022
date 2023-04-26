@@ -17,7 +17,7 @@ Apenas o Python instalado
 
 ## Resultado
 <p align="center">
-  <img src="./assets/images/eleicoes.jpg" width="600" alt="Eleicoes" /></a>
+  <img src="./assets/images/eleicoes.jpg" width="800" alt="Eleicoes" /></a>
 </p>
 
 ## suporte
