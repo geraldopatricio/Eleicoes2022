@@ -12,7 +12,7 @@ Mostrar automaticamente em tempo real a votação das eleições 2022.
 
 ## Requisitos
 ```bash
-Apenas o Python instalado
+Instale o Python e as bibliotecas usadas no projeto e rode os arquivos alterando o endereço correto do get.
 ```
 
 ## Resultado
