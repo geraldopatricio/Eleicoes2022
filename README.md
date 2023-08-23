@@ -12,13 +12,12 @@ Mostrar automaticamente em tempo real a votação das eleições 2022.
 
 ## Requisitos
 ```bash
-Instale o Python e as bibliotecas usadas no projeto e rode os arquivos.
+Instale o Python e as bibliotecas usadas no projeto.
+# pip install opencv-python-headless Pillow tk
 ```
 
 ## Resultado
-<p align="center">
-  <img src="./assets/images/eleicoes.jpg" width="800" alt="Eleicoes" /></a>
-</p>
+<a href="https://youtu.be/jVTcdYGr6aw" alt="Vídeo" />Vídeo Demo</a>
 
 ## suporte
 ```bash
